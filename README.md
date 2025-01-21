@@ -1,2 +1,2 @@
 # pets
-pets project &amp; documentation
+Различные наработки, документации и инструкции.
